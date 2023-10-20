@@ -1,6 +1,6 @@
 # salary-hike-calculator
 
-#### Project Directory Structure ([Live Demo](https://salary-hike-calculator.netlify.app/))
+#### Project Directory Structure ([Live Demo](https://salary-hike-calci.netlify.app/))
 
 ---
 
